@@ -9,6 +9,9 @@ notebook = "==7.1.2"
 openai = "*"
 elasticsearch = "*"
 elastic = "*"
+pandas = "*"
+scikit-learn = "*"
+streamlit = "*"
 
 [dev-packages]
 
