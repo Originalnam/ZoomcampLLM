@@ -13,6 +13,7 @@ pandas = "*"
 scikit-learn = "*"
 streamlit = "*"
 sentence-transformers = "==2.7.0"
+seaborn = "*"
 
 [dev-packages]
 
