@@ -15,6 +15,9 @@ streamlit = "*"
 sentence-transformers = "==2.7.0"
 seaborn = "*"
 rouge = "*"
+pgcli = "*"
+psycopg2-binary = "*"
+python-dotenv = "*"
 
 [dev-packages]
 
